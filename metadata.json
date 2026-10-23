@@ -1,0 +1,6 @@
+{
+  "name": "ZUD Delivery — Хадамоти расонидан дар Тоҷикистон",
+  "description": "Платформаи муосири фармоиш ва расонидани хӯрок, маҳсулот ва доруворӣ дар Тоҷикистон (Душанбе, Хуҷанд ва дигар шаҳрҳо).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
